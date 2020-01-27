@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "John",
+      "description": "John desc",
+      "login": "admin",
+      "img": "https://sunriseprowebsites.com/backstage/app/views/client/lutfi-cloud/lutfi-file/images/avatar.png",
+      "password": "admin"
+    },
+    {
+      "name": "Roman",
+      "description": "Roman desc",
+      "login": "roman",
+      "password": "roman",
+      "img": "http://mdcmi.ac.in//admin/managemntcouncil/eset_user.png"
+    }
+  ]
+}

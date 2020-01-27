@@ -1,0 +1,35 @@
+{"posts":[
+  {
+    "login":"admin",
+    "id": "0",
+    "img": "https://picsum.photos/200/300",
+    "description": "desc1",
+    "likes": [
+      "admin",
+      "roman"
+    ]
+  },
+  {
+    "login":"admin",
+    "id": "1",
+    "img": "https://picsum.photos/200",
+    "description": "desc2",
+    "likes": []
+  },
+  {
+    "login":"roman",
+    "id": "2",
+    "img": "https://picsum.photos/201",
+    "description": "desc1",
+    "likes": [
+      "roman"
+    ]
+  },
+  {
+    "login":"roman",
+    "id": "3",
+    "img": "https://picsum.photos/202",
+    "description": "AAAAA romik",
+    "likes": []
+  }
+]}
